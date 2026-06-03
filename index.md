@@ -3,11 +3,12 @@
 <img width="200" alt="portfolio_view" src="picture.jpg">
 
 ## Contact
-E-mail: [lukas_hecker@web.de](mailto:lukas_hecker@web.de)  
+E-mail: [lukas.hecker.job@gmail.com](mailto:lukas.hecker.job@gmail.com)  
 Github: [https://github.com/LukeTheHecker](https://github.com/LukeTheHecker)
 
 ## Positions
-*08/2023 - today*: Scientific consultant for the Braude College, Israel in cooperation with the McGovern Institute for Brain Research in Boston (MIT).  
+*02/2025 - today*: Machine Learning Engineer at [engaige GmbH](https://engaige.tech/).  
+*08/2023 - 02/2025*: Scientific consultant for the Braude College, Israel in cooperation with the McGovern Institute for Brain Research in Boston (MIT).  
   
 *12/2022 - 11/2023*: Research officer at an AI startup.  
   
